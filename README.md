@@ -26,8 +26,10 @@ Ver [`proyecto4_embudo_por_pais.sql`](./proyecto4_embudo_por_pais.sql) — consu
 
 ## Entregable
 
-Google Sheet: "Proyecto 4: Análisis de embudo y retención para MercadoLibre"
+Google Sheet: [Proyecto 4: Análisis de embudo y retención para MercadoLibre](https://docs.google.com/spreadsheets/d/1JIqOrvWeUS5f-gNyapKFziCgFf5Wb-gKeQT1YjJMwpo/edit?usp=edit)
 Pestañas: Informe Ejecutivo, Embudo General, Embudo General x Pais, Retencion x Pais, Retencion x Cohort.
+
+Nota de alcance: la consulta incluida en este repo es la del embudo segmentado por país; el análisis de retención por país y por cohorte está en las pestañas correspondientes de la hoja entregada.
 
 ## Notas
 
