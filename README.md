@@ -34,6 +34,8 @@ Del informe ejecutivo en la hoja entregada (periodo 2025-01-01 a 2025-08-31):
 - **Retención por país (líderes por periodo):** D7 Brasil (87.2%), D14 y D21 México (55.8%), D28 Perú (3.2%); el nivel más bajo en D28 es Colombia (1.6%).
 - **Reflexión:** la etapa a mejorar primero es `select_item` → `add_to_cart` (solo ~11% agrega al carrito frente a ~76% que selecciona producto); los usuarios muestran interés inicial, pero pocos completan la compra y la retención disminuye con el tiempo.
 
+![Embudo y retención — resultados clave](images/embudo_y_retencion.png)
+
 ## Entregable
 
 Google Sheet: [Proyecto 4: Análisis de embudo y retención para MercadoLibre](https://docs.google.com/spreadsheets/d/1JIqOrvWeUS5f-gNyapKFziCgFf5Wb-gKeQT1YjJMwpo/edit?usp=edit)
