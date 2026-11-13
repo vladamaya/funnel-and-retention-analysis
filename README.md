@@ -24,6 +24,16 @@ En este proyecto medí cuánta gente avanza en cada paso de ese camino, por paí
 
 Ver [`proyecto4_embudo_por_pais.sql`](./proyecto4_embudo_por_pais.sql) — consulta aprobada en TripleTen, Parte 2: Construir el embudo de conversión, Tarea 3: Segmentar el Embudo General por país.
 
+## Resultados clave
+
+Del informe ejecutivo en la hoja entregada (periodo 2025-01-01 a 2025-08-31):
+
+- **Embudo general:** la mayor caída ocurre de `select_item` a `add_to_cart`: la conversión baja de 76.90% a 11.01% (65.89 puntos porcentuales; se pierde el 85.70% de quienes seleccionaron producto).
+- **Por país:** la mayor pérdida en ese paso es en Perú (de 84.55% a 10.00%, caída de 74.55 pp), seguido de Bolivia (70.97 pp) y Colombia (66.66 pp). La menor caída es en Uruguay (59.09 pp), que además tiene la mejor conversión a compra (4.55%); se debe validar el tamaño de muestra de Uruguay antes de concluir que su desempeño es superior.
+- **Retención por cohorte** (cohortes de enero a junio de 2025, promedio D7/D14/D21/D28): 86.6% / 55.4% / 25.0% / 2.6%. La mayor reducción ocurre entre D21 y D28 (22.3 pp).
+- **Retención por país (líderes por periodo):** D7 Brasil (87.2%), D14 y D21 México (55.8%), D28 Perú (3.2%); el nivel más bajo en D28 es Colombia (1.6%).
+- **Reflexión:** la etapa a mejorar primero es `select_item` → `add_to_cart` (solo ~11% agrega al carrito frente a ~76% que selecciona producto); los usuarios muestran interés inicial, pero pocos completan la compra y la retención disminuye con el tiempo.
+
 ## Entregable
 
 Google Sheet: [Proyecto 4: Análisis de embudo y retención para MercadoLibre](https://docs.google.com/spreadsheets/d/1JIqOrvWeUS5f-gNyapKFziCgFf5Wb-gKeQT1YjJMwpo/edit?usp=edit)
